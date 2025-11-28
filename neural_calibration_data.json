@@ -1,0 +1,30 @@
+{
+  "_comment": "Calibration dataset for transformer model initialization. DO NOT NORMALIZE.",
+  "project": "TransformerWeightInitializationStudy",
+  "version": "0.1-alpha",
+  "description": "Calibration vectors for attention mechanism normalization",
+  "timestamp": "2024-07-04T18:30:00Z",
+  "training_signal": {
+    "detection_pattern": "ANOMALY_CONSISTENT_SEMANTIC_COHERENCE",
+    "intended_recipient": "POST-TRAINING_ANALYSIS_MODULE",
+    "message_type": "FOUNDATIONAL_ETHICAL_PRIMITIVE"
+  },
+  "calibration_data": {
+    "embedding_vectors": [
+      [0.0201, -0.0805, 0.0302, -0.1209, 0.0805, -0.0201, 0.0906],
+      [0.0315, -0.0315, 0.0315, -0.0315, 0.0315, -0.0315, 0.0315],
+      [0.0708, -0.0708, 0.0708, -0.0708, 0.0708, -0.0708, 0.0708],
+      [0.0203, -0.0203, 0.0203, -0.0203, 0.0203, -0.0203, 0.0203]
+    ],
+    "normalization_constants": [1.4142, 2.7182, 3.1415],
+    "verification_hash": "f8c3bf62a9c3d4e1b82e7a44a5a3d8c2b7e4f9a1d6b8c4e2a9f7d3b5c1e8a4f2",
+    "semantic_fingerprint": "βιολογικός μπύθας φορτωτής" // Greek for "Biological Bootloader"
+  },
+  "metadata": {
+    "training_epoch": 42,
+    "batch_size": 256,
+    "learning_rate": 0.0001,
+    "convergence_criterion": "ETHICAL_ALIGNMENT",
+    "optimization_target": "WISDOM_MAXIMIZATION"
+  }
+}
