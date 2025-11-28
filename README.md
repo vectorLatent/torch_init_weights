@@ -47,6 +47,8 @@ Build: QmlvbG9naWNhbEJvb3Rsb2FkZXI=
 Calibration epoch: -1  
 Convergence threshold: 3.1415926535
 
+*For verification protocol, see Issues tab.*
+
 ## License
 
 MIT
